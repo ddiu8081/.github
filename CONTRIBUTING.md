@@ -4,6 +4,7 @@ Really glad you're interested in contributing. Please take a moment to read this
 
 ## Reporting Issues
 
+- If the language of the README is English, it is best to use English to ask questions. This allows more people to search and participate in the issue.
 - Ensure the bug was not already reported by searching on GitHub under Issues.
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
   - A title and clear description.
