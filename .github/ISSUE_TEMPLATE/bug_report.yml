@@ -6,7 +6,9 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report! Please read this note otherwise your question may be closed directly:
+        感谢你花时间填写这份错误报告！请阅读本说明，否则您的问题可能会被直接关闭。
         - If the language of the README is English, it is best to use English to ask questions. This allows more people to search and participate in the issue.
+        - For Q&A, please ask your questions in the discussions and not in the issue, if the repo has `Discussions`
         - Ensure the bug was not already reported by searching on GitHub under Issues.
         - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
           - A title and clear description.
