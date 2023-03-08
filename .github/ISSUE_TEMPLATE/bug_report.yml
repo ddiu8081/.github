@@ -5,7 +5,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this bug report! Please read this note otherwise your question may be closed directly:
+        - If the language of the README is English, it is best to use English to ask questions. This allows more people to search and participate in the issue.
+        - Ensure the bug was not already reported by searching on GitHub under Issues.
+        - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
+          - A title and clear description.
+          - As much relevant information as possible.
+          - A code sample or an executable test case.
   - type: textarea
     id: bug-description
     attributes:
